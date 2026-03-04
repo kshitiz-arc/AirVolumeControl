@@ -90,21 +90,6 @@ VolumeInterpolation --> SystemAudioControl
 SystemAudioControl --> UIOverlay
 ```
 
----
-
-## 📂 Project Structure
-
-```
-AirVolumeControl/
-│
-├── AirVolumeControl.py
-├── hand_landmarker.task
-├── requirements.txt
-├── README.md
-```
-
----
-
 ## 💻 Requirements
 
 * Python **3.8+**
